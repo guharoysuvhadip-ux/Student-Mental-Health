@@ -62,7 +62,7 @@ Small, self-reported sample (not a clinical diagnosis). Results show association
 
 🐍 Python · 🐼 pandas · 📉 matplotlib · 🎨 seaborn · ☁️ Google Colab
 
-📊 Dashboard
+## 📊 Dashboard
 
 <img width="1520" height="2720" alt="dashboard_full" src="https://github.com/user-attachments/assets/c5aacdca-4a16-44bf-9d16-520eaa87c1f4" />
 
